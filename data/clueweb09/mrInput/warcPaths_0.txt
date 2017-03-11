@@ -1,0 +1,1 @@
+/root/MoocHomeworks/HBaseWordCount/data/clueweb09/files/01.warc.gz
